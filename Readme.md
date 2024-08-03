@@ -1,4 +1,4 @@
-# ShoppingCart Feature with Javascript OOP
+# ShoppingCart | Javascript OOP
 
 
 

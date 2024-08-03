@@ -1,17 +1,19 @@
 # ShoppingCart Feature with Javascript OOP
 
-## Description
 
+
+## Description
 This project demonstrates how to implement a shopping cart feature using JavaScript Object-Oriented Programming (OOP). This cart feature allows users to add products to the cart, manage the quantity of products, display the cart contents, and calculate the total price of the products in the cart.
 
 
 ### Purpose
-
 The shopping cart feature is essential for e-commerce websites. With this feature, users can:
 - Easily add products to the cart.
 - Manage the quantity of products in the cart.
 - View the total price of all products in the cart.
 - Remove products from the cart if they are not wanted.
+
+
 
 
 ## Code Explanation
@@ -24,6 +26,8 @@ The JavaScript file contains the `ShoppingCart` class, which:
 - Adds an event listener for adding and removing products.
 - Validates the product quantity.
 - Displays or hides cart contents and total price based on the cart status.
+
+
 
 
 ## Advantages of the Cart Feature Written in JavaScript OOP
